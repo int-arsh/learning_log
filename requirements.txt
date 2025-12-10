@@ -1,0 +1,13 @@
+asgiref==3.11.0
+attrs==25.4.0
+beautifulsoup4==4.14.3
+click==8.3.1
+django==5.2.8
+django-bootstrap4==25.3
+parsy==1.1.0
+pathspec==0.12.1
+soupsieve==2.8
+sqlparse==0.5.3
+toml==0.10.2
+typing-extensions==4.15.0
+whitenoise==6.7.0
